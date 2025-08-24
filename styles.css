@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #f4f8fa;
 
 }
 
@@ -113,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/fundo02.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #edeef1;
 }
 .menu-acessibilidade{
     position: fixed;
